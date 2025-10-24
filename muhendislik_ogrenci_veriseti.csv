@@ -1,0 +1,1001 @@
+OgrenciNo,Bolum,Lise,YGS_Puani,YGS_Tercih_Sirasi,Ikametgah,Mezuniyet_Notu
+20251101001,Bilgisayar Mühendisliği,Düz Lise,470.79,12,Yurt,76.34
+20251102002,Makine Mühendisliği,Anadolu Lisesi,429.03,3,,96.28
+20251101003,Bilgisayar Mühendisliği,Düz Lise,462.27,10,Yurt,75.19
+20251101004,Bilgisayar Mühendisliği,Düz Lise,483.42,,Ev,87.21
+20251102005,Makine Mühendisliği,Düz Lise,,,Ev,84.51
+20251105006,Elektrik Mühendisliği,Meslek Lisesi,414.96,,Yurt,72.41
+20251105007,Elektrik Mühendisliği,Fen Lisesi,430.24,13,Ev,55.04
+20251102008,Makine Mühendisliği,Meslek Lisesi,377.63,6,Yurt,71.25
+20251102009,Makine Mühendisliği,Anadolu Lisesi,393.06,,Yurt,81.77
+20251101010,Bilgisayar Mühendisliği,Düz Lise,454.41,7,Ev,61.05
+20251103011,Harita Mühendisliği,Fen Lisesi,421.64,10,Yurt,75.29
+20251101012,Bilgisayar Mühendisliği,,465.79,9,Ev,60.9
+20251104013,Gıda Mühendisliği,Düz Lise,319.58,9,Yurt,79.33
+20251105014,Elektrik Mühendisliği,Fen Lisesi,,10,Ev,82.51
+20251101015,Bilgisayar Mühendisliği,Düz Lise,457.99,11,Ev,74.5
+20251103016,Harita Mühendisliği,Düz Lise,369.96,14,,
+20251101017,Bilgisayar Mühendisliği,Meslek Lisesi,464.84,5,Yurt,65.31
+20251103018,Harita Mühendisliği,Anadolu Lisesi,405.56,6,Yurt,63.35
+20251102019,Makine Mühendisliği,Fen Lisesi,419.53,12,Özel Yurt,
+20251101020,Bilgisayar Mühendisliği,Anadolu Lisesi,449.5,9,Özel Yurt,80.36
+20251102021,Makine Mühendisliği,Anadolu Lisesi,431.0,8,Yurt,80.06
+20251103022,Harita Mühendisliği,Anadolu Lisesi,382.11,11,Yurt,74.39
+20251101023,Bilgisayar Mühendisliği,Anadolu Lisesi,447.75,14,Ev,69.36
+20251103024,Harita Mühendisliği,Meslek Lisesi,373.48,5,Ev,90.69
+20251102025,Makine Mühendisliği,Fen Lisesi,422.45,,Özel Yurt,56.84
+20251104026,Gıda Mühendisliği,Meslek Lisesi,344.18,15,Özel Yurt,73.38
+20251104027,Gıda Mühendisliği,Anadolu Lisesi,315.82,5,Ev,85.34
+20251102028,Makine Mühendisliği,Fen Lisesi,437.34,12,Özel Yurt,89.18
+20251104029,Gıda Mühendisliği,,311.22,6,Ev,74.29
+20251102030,Makine Mühendisliği,Meslek Lisesi,422.18,,Ev,
+20251101031,Bilgisayar Mühendisliği,Anadolu Lisesi,459.41,11,Ev,75.77
+20251104032,Gıda Mühendisliği,Düz Lise,303.65,7,,
+20251105033,Elektrik Mühendisliği,,442.6,9,Yurt,94.27
+20251105034,Elektrik Mühendisliği,Düz Lise,423.44,11,Özel Yurt,90.04
+20251101035,Bilgisayar Mühendisliği,Fen Lisesi,469.22,13,Özel Yurt,70.26
+20251103036,Harita Mühendisliği,Düz Lise,394.03,5,Yurt,
+20251102037,Makine Mühendisliği,,414.22,1,Özel Yurt,96.78
+20251103038,Harita Mühendisliği,Anadolu Lisesi,319.51,9,Ev,87.86
+20251103039,Harita Mühendisliği,Anadolu Lisesi,387.18,3,Yurt,74.41
+20251102040,Makine Mühendisliği,Düz Lise,416.99,10,Yurt,54.15
+20251104041,Gıda Mühendisliği,Düz Lise,328.78,2,Yurt,82.29
+20251103042,Harita Mühendisliği,Anadolu Lisesi,421.95,1,Ev,71.78
+20251105043,Elektrik Mühendisliği,,407.48,2,Özel Yurt,71.98
+20251104044,Gıda Mühendisliği,Düz Lise,360.94,13,Özel Yurt,81.95
+20251102045,Makine Mühendisliği,Anadolu Lisesi,403.52,11,Yurt,84.16
+20251105046,Elektrik Mühendisliği,Anadolu Lisesi,427.1,5,Özel Yurt,
+20251105047,Elektrik Mühendisliği,Meslek Lisesi,409.79,4,Özel Yurt,74.07
+20251102048,Makine Mühendisliği,,406.5,7,Özel Yurt,60.44
+20251103049,Harita Mühendisliği,Meslek Lisesi,392.4,15,Özel Yurt,81.13
+20251104050,Gıda Mühendisliği,Düz Lise,335.14,4,Ev,75.18
+20251101051,Bilgisayar Mühendisliği,Fen Lisesi,448.49,1,Özel Yurt,72.95
+20251105052,Elektrik Mühendisliği,Anadolu Lisesi,417.57,10,Ev,68.37
+20251101053,Bilgisayar Mühendisliği,Düz Lise,463.12,12,Özel Yurt,82.85
+20251101054,Bilgisayar Mühendisliği,Anadolu Lisesi,487.01,2,Ev,80.09
+20251103055,Harita Mühendisliği,Düz Lise,391.44,9,,77.11
+20251103056,Harita Mühendisliği,Meslek Lisesi,337.03,4,Özel Yurt,77.68
+20251102057,Makine Mühendisliği,Meslek Lisesi,416.3,4,Yurt,100.0
+20251104058,Gıda Mühendisliği,Anadolu Lisesi,329.55,2,Ev,81.62
+20251104059,Gıda Mühendisliği,Fen Lisesi,334.02,7,Yurt,63.98
+20251104060,Gıda Mühendisliği,Düz Lise,367.38,,Özel Yurt,87.02
+20251101061,Bilgisayar Mühendisliği,Düz Lise,474.23,7,Özel Yurt,67.09
+20251103062,Harita Mühendisliği,Düz Lise,420.07,4,Ev,61.18
+20251102063,Makine Mühendisliği,,427.72,3,Yurt,100.0
+20251102064,Makine Mühendisliği,Fen Lisesi,393.54,,,71.2
+20251101065,Bilgisayar Mühendisliği,Meslek Lisesi,466.16,13,Özel Yurt,71.96
+20251101066,Bilgisayar Mühendisliği,Düz Lise,,,Özel Yurt,78.82
+20251101067,Bilgisayar Mühendisliği,Düz Lise,452.61,15,Ev,83.68
+20251102068,Makine Mühendisliği,Meslek Lisesi,395.08,8,Yurt,96.6
+20251102069,Makine Mühendisliği,Meslek Lisesi,,15,Ev,74.14
+20251102070,Makine Mühendisliği,,432.63,1,Yurt,63.23
+20251103071,Harita Mühendisliği,Meslek Lisesi,390.69,5,Yurt,93.69
+20251105072,Elektrik Mühendisliği,,390.17,3,,80.22
+20251103073,Harita Mühendisliği,Anadolu Lisesi,391.5,1,Özel Yurt,87.38
+20251105074,Elektrik Mühendisliği,Düz Lise,,12,Yurt,62.15
+20251101075,Bilgisayar Mühendisliği,Düz Lise,471.09,10,Yurt,81.56
+20251105076,Elektrik Mühendisliği,Anadolu Lisesi,430.43,1,Özel Yurt,82.16
+20251101077,Bilgisayar Mühendisliği,Anadolu Lisesi,457.07,2,Özel Yurt,80.79
+20251101078,Bilgisayar Mühendisliği,Anadolu Lisesi,468.42,7,Ev,69.43
+20251105079,Elektrik Mühendisliği,Anadolu Lisesi,,,Özel Yurt,83.69
+20251101080,Bilgisayar Mühendisliği,Düz Lise,451.1,7,,85.88
+20251105081,Elektrik Mühendisliği,Fen Lisesi,403.88,15,Yurt,87.45
+20251102082,Makine Mühendisliği,,440.1,4,Yurt,68.15
+20251104083,Gıda Mühendisliği,Anadolu Lisesi,362.3,11,Özel Yurt,82.95
+20251103084,Harita Mühendisliği,,405.55,6,Ev,100.0
+20251101085,Bilgisayar Mühendisliği,Meslek Lisesi,462.14,10,Özel Yurt,68.96
+20251101086,Bilgisayar Mühendisliği,Düz Lise,454.62,9,Ev,68.21
+20251105087,Elektrik Mühendisliği,Fen Lisesi,423.33,3,Yurt,82.09
+20251101088,Bilgisayar Mühendisliği,Anadolu Lisesi,468.23,6,Yurt,87.93
+20251102089,Makine Mühendisliği,Meslek Lisesi,415.28,14,Özel Yurt,95.44
+20251103090,Harita Mühendisliği,Düz Lise,378.38,11,Özel Yurt,100.0
+20251103091,Harita Mühendisliği,Düz Lise,400.64,15,Ev,
+20251103092,Harita Mühendisliği,Düz Lise,,15,Ev,83.79
+20251105093,Elektrik Mühendisliği,Anadolu Lisesi,420.16,5,Yurt,86.57
+20251105094,Elektrik Mühendisliği,Anadolu Lisesi,435.25,12,Yurt,77.13
+20251102095,Makine Mühendisliği,Fen Lisesi,396.65,9,Yurt,59.82
+20251103096,Harita Mühendisliği,Düz Lise,,2,Özel Yurt,88.28
+20251104097,Gıda Mühendisliği,Fen Lisesi,341.07,1,Ev,63.05
+20251103098,Harita Mühendisliği,Anadolu Lisesi,389.33,11,Yurt,82.62
+20251102099,Makine Mühendisliği,,395.85,9,Özel Yurt,79.84
+20251104100,Gıda Mühendisliği,Düz Lise,336.65,2,,64.28
+20251102101,Makine Mühendisliği,,422.75,14,Yurt,84.73
+20251105102,Elektrik Mühendisliği,Anadolu Lisesi,448.47,7,Ev,90.65
+20251101103,Bilgisayar Mühendisliği,Fen Lisesi,448.93,6,Ev,66.75
+20251103104,Harita Mühendisliği,Anadolu Lisesi,397.88,11,Ev,84.17
+20251101105,Bilgisayar Mühendisliği,,471.01,,Özel Yurt,100.0
+20251104106,Gıda Mühendisliği,Anadolu Lisesi,351.18,15,Ev,91.63
+20251102107,Makine Mühendisliği,Anadolu Lisesi,435.67,15,Yurt,85.82
+20251101108,Bilgisayar Mühendisliği,Anadolu Lisesi,461.32,12,Yurt,87.11
+20251104109,Gıda Mühendisliği,Anadolu Lisesi,313.1,5,,75.16
+20251101110,Bilgisayar Mühendisliği,Meslek Lisesi,459.34,14,Ev,78.98
+20251104111,Gıda Mühendisliği,Anadolu Lisesi,400.58,,Yurt,55.59
+20251103112,Harita Mühendisliği,Fen Lisesi,402.16,14,Ev,58.65
+20251102113,Makine Mühendisliği,Düz Lise,404.77,11,Ev,91.07
+20251104114,Gıda Mühendisliği,Fen Lisesi,336.82,5,Ev,65.07
+20251103115,Harita Mühendisliği,Fen Lisesi,367.12,11,Özel Yurt,86.16
+20251104116,Gıda Mühendisliği,Fen Lisesi,314.31,1,Ev,80.6
+20251103117,Harita Mühendisliği,Anadolu Lisesi,386.14,10,Yurt,70.18
+20251101118,Bilgisayar Mühendisliği,Düz Lise,490.01,10,Yurt,85.61
+20251103119,Harita Mühendisliği,Fen Lisesi,334.37,7,Özel Yurt,80.24
+20251105120,Elektrik Mühendisliği,Düz Lise,410.66,7,Özel Yurt,88.23
+20251102121,Makine Mühendisliği,Fen Lisesi,397.83,1,Özel Yurt,76.62
+20251104122,Gıda Mühendisliği,Düz Lise,349.31,,Özel Yurt,88.39
+20251102123,Makine Mühendisliği,,,7,Ev,73.99
+20251103124,Harita Mühendisliği,Fen Lisesi,373.13,,Ev,70.16
+20251103125,Harita Mühendisliği,Fen Lisesi,429.14,11,Yurt,82.86
+20251103126,Harita Mühendisliği,Meslek Lisesi,353.48,12,Yurt,89.01
+20251105127,Elektrik Mühendisliği,Anadolu Lisesi,470.98,4,,90.39
+20251104128,Gıda Mühendisliği,Anadolu Lisesi,291.95,10,Özel Yurt,
+20251103129,Harita Mühendisliği,Meslek Lisesi,416.67,9,Ev,69.51
+20251103130,Harita Mühendisliği,Fen Lisesi,396.1,4,Yurt,87.3
+20251105131,Elektrik Mühendisliği,Fen Lisesi,404.92,8,Yurt,77.29
+20251104132,Gıda Mühendisliği,Anadolu Lisesi,,9,Yurt,65.71
+20251102133,Makine Mühendisliği,,409.53,5,Özel Yurt,63.03
+20251105134,Elektrik Mühendisliği,,460.37,2,,60.84
+20251103135,Harita Mühendisliği,Anadolu Lisesi,374.0,13,Ev,79.57
+20251102136,Makine Mühendisliği,Düz Lise,446.23,,Ev,60.77
+20251104137,Gıda Mühendisliği,Düz Lise,367.96,8,Yurt,78.12
+20251105138,Elektrik Mühendisliği,Anadolu Lisesi,403.73,12,Özel Yurt,83.55
+20251104139,Gıda Mühendisliği,Meslek Lisesi,340.64,7,Ev,70.8
+20251102140,Makine Mühendisliği,Düz Lise,416.51,15,Ev,73.38
+20251104141,Gıda Mühendisliği,Anadolu Lisesi,338.22,3,,85.95
+20251105142,Elektrik Mühendisliği,Meslek Lisesi,459.36,1,Özel Yurt,63.15
+20251102143,Makine Mühendisliği,,461.22,8,Ev,54.57
+20251104144,Gıda Mühendisliği,Fen Lisesi,330.7,13,Yurt,
+20251105145,Elektrik Mühendisliği,,431.09,14,Özel Yurt,70.53
+20251104146,Gıda Mühendisliği,Anadolu Lisesi,329.1,12,Yurt,72.08
+20251104147,Gıda Mühendisliği,Fen Lisesi,318.3,13,Ev,88.2
+20251103148,Harita Mühendisliği,Meslek Lisesi,,11,,69.69
+20251103149,Harita Mühendisliği,,,2,Özel Yurt,
+20251103150,Harita Mühendisliği,Anadolu Lisesi,405.32,5,Yurt,85.56
+20251103151,Harita Mühendisliği,Düz Lise,364.28,3,,71.28
+20251102152,Makine Mühendisliği,,431.19,,Ev,85.32
+20251102153,Makine Mühendisliği,Düz Lise,414.55,7,Yurt,79.41
+20251103154,Harita Mühendisliği,Meslek Lisesi,416.94,7,,70.9
+20251102155,Makine Mühendisliği,Meslek Lisesi,426.85,7,Özel Yurt,75.57
+20251101156,Bilgisayar Mühendisliği,Meslek Lisesi,462.46,8,Ev,91.19
+20251103157,Harita Mühendisliği,Fen Lisesi,405.64,,Yurt,87.76
+20251104158,Gıda Mühendisliği,,371.99,8,Ev,
+20251103159,Harita Mühendisliği,Meslek Lisesi,402.05,8,Ev,74.28
+20251104160,Gıda Mühendisliği,Fen Lisesi,344.18,11,Özel Yurt,76.44
+20251104161,Gıda Mühendisliği,Anadolu Lisesi,337.75,14,,85.14
+20251102162,Makine Mühendisliği,Düz Lise,397.27,15,,100.0
+20251105163,Elektrik Mühendisliği,Düz Lise,403.2,2,Özel Yurt,63.43
+20251104164,Gıda Mühendisliği,Anadolu Lisesi,367.81,14,,87.5
+20251102165,Makine Mühendisliği,Düz Lise,428.52,5,Yurt,85.54
+20251103166,Harita Mühendisliği,Anadolu Lisesi,384.69,8,Yurt,67.23
+20251103167,Harita Mühendisliği,Meslek Lisesi,386.9,5,Yurt,69.87
+20251103168,Harita Mühendisliği,Düz Lise,409.38,8,Ev,76.24
+20251105169,Elektrik Mühendisliği,Düz Lise,407.11,6,Ev,74.14
+20251101170,Bilgisayar Mühendisliği,Düz Lise,469.82,13,Ev,71.24
+20251102171,Makine Mühendisliği,Anadolu Lisesi,397.19,14,Ev,80.92
+20251105172,Elektrik Mühendisliği,Anadolu Lisesi,430.31,4,,71.92
+20251104173,Gıda Mühendisliği,Düz Lise,321.65,10,Ev,80.78
+20251104174,Gıda Mühendisliği,Fen Lisesi,293.97,13,Yurt,61.11
+20251102175,Makine Mühendisliği,,399.43,,Ev,75.44
+20251103176,Harita Mühendisliği,Düz Lise,392.77,10,Ev,95.7
+20251103177,Harita Mühendisliği,Meslek Lisesi,406.44,7,Özel Yurt,76.08
+20251102178,Makine Mühendisliği,Düz Lise,,10,Özel Yurt,65.97
+20251102179,Makine Mühendisliği,Düz Lise,414.6,12,Yurt,74.54
+20251105180,Elektrik Mühendisliği,Düz Lise,431.99,,Özel Yurt,68.07
+20251101181,Bilgisayar Mühendisliği,Fen Lisesi,471.06,9,Yurt,96.39
+20251103182,Harita Mühendisliği,Düz Lise,382.28,9,Özel Yurt,82.82
+20251103183,Harita Mühendisliği,,402.25,14,Yurt,73.19
+20251104184,Gıda Mühendisliği,Düz Lise,341.35,7,Yurt,
+20251104185,Gıda Mühendisliği,Anadolu Lisesi,337.77,7,Ev,68.72
+20251105186,Elektrik Mühendisliği,Fen Lisesi,425.53,10,Özel Yurt,83.98
+20251104187,Gıda Mühendisliği,Meslek Lisesi,376.12,7,Özel Yurt,89.51
+20251105188,Elektrik Mühendisliği,Fen Lisesi,471.65,6,Ev,68.79
+20251101189,Bilgisayar Mühendisliği,Fen Lisesi,475.18,15,Yurt,80.2
+20251102190,Makine Mühendisliği,Meslek Lisesi,462.45,10,Özel Yurt,68.3
+20251104191,Gıda Mühendisliği,Fen Lisesi,311.21,1,Yurt,70.81
+20251103192,Harita Mühendisliği,Anadolu Lisesi,331.9,8,Ev,71.69
+20251103193,Harita Mühendisliği,Fen Lisesi,366.02,6,Yurt,79.8
+20251105194,Elektrik Mühendisliği,Fen Lisesi,432.4,9,Ev,100.0
+20251105195,Elektrik Mühendisliği,,445.59,2,,71.08
+20251104196,Gıda Mühendisliği,Meslek Lisesi,309.54,9,Ev,83.9
+20251104197,Gıda Mühendisliği,Meslek Lisesi,297.59,8,Ev,99.98
+20251101198,Bilgisayar Mühendisliği,,478.76,4,Yurt,
+20251102199,Makine Mühendisliği,Fen Lisesi,377.88,11,Özel Yurt,94.25
+20251103200,Harita Mühendisliği,Meslek Lisesi,382.14,9,Özel Yurt,92.85
+20251103201,Harita Mühendisliği,Meslek Lisesi,345.14,12,Özel Yurt,70.81
+20251103202,Harita Mühendisliği,Fen Lisesi,385.13,12,Yurt,
+20251103203,Harita Mühendisliği,Fen Lisesi,373.75,5,,85.47
+20251101204,Bilgisayar Mühendisliği,,452.54,6,Ev,76.29
+20251105205,Elektrik Mühendisliği,Anadolu Lisesi,427.61,4,Ev,84.17
+20251104206,Gıda Mühendisliği,Fen Lisesi,355.16,12,Özel Yurt,64.5
+20251105207,Elektrik Mühendisliği,Fen Lisesi,391.76,2,Ev,93.33
+20251103208,Harita Mühendisliği,Anadolu Lisesi,393.31,6,Ev,69.02
+20251103209,Harita Mühendisliği,Düz Lise,423.78,12,Özel Yurt,79.39
+20251102210,Makine Mühendisliği,Fen Lisesi,440.55,1,Ev,78.81
+20251105211,Elektrik Mühendisliği,Fen Lisesi,469.65,12,,99.06
+20251104212,Gıda Mühendisliği,Düz Lise,327.95,14,Ev,89.66
+20251105213,Elektrik Mühendisliği,,438.98,8,Yurt,94.42
+20251104214,Gıda Mühendisliği,Fen Lisesi,307.66,3,Ev,86.23
+20251103215,Harita Mühendisliği,,411.46,2,Ev,
+20251104216,Gıda Mühendisliği,Meslek Lisesi,301.47,2,Özel Yurt,53.53
+20251101217,Bilgisayar Mühendisliği,Anadolu Lisesi,461.86,3,Özel Yurt,86.61
+20251103218,Harita Mühendisliği,Düz Lise,422.56,,Ev,78.89
+20251105219,Elektrik Mühendisliği,Meslek Lisesi,460.29,10,,61.44
+20251105220,Elektrik Mühendisliği,Anadolu Lisesi,388.09,13,Özel Yurt,77.33
+20251104221,Gıda Mühendisliği,Meslek Lisesi,345.88,15,Yurt,77.61
+20251103222,Harita Mühendisliği,Meslek Lisesi,,5,Özel Yurt,76.93
+20251105223,Elektrik Mühendisliği,Düz Lise,396.74,10,Özel Yurt,86.04
+20251101224,Bilgisayar Mühendisliği,Anadolu Lisesi,469.28,11,Ev,66.72
+20251103225,Harita Mühendisliği,Düz Lise,372.15,3,Ev,65.29
+20251102226,Makine Mühendisliği,Düz Lise,413.64,3,Ev,89.46
+20251104227,Gıda Mühendisliği,Meslek Lisesi,307.07,12,Özel Yurt,84.05
+20251104228,Gıda Mühendisliği,Fen Lisesi,319.98,1,Ev,68.49
+20251103229,Harita Mühendisliği,Fen Lisesi,382.32,12,Yurt,65.58
+20251101230,Bilgisayar Mühendisliği,Anadolu Lisesi,458.54,15,Yurt,63.63
+20251105231,Elektrik Mühendisliği,Anadolu Lisesi,467.57,7,Ev,78.42
+20251105232,Elektrik Mühendisliği,Anadolu Lisesi,409.84,11,Ev,80.57
+20251103233,Harita Mühendisliği,Anadolu Lisesi,382.19,,Ev,75.35
+20251102234,Makine Mühendisliği,,428.31,10,Özel Yurt,87.09
+20251105235,Elektrik Mühendisliği,Fen Lisesi,413.51,8,Ev,71.09
+20251104236,Gıda Mühendisliği,Fen Lisesi,327.21,12,Yurt,50.38
+20251103237,Harita Mühendisliği,Meslek Lisesi,347.12,8,Ev,
+20251105238,Elektrik Mühendisliği,Düz Lise,460.64,15,Yurt,75.01
+20251103239,Harita Mühendisliği,Fen Lisesi,399.41,,Ev,81.74
+20251102240,Makine Mühendisliği,Düz Lise,481.71,13,Özel Yurt,91.43
+20251103241,Harita Mühendisliği,Düz Lise,381.8,13,Ev,66.53
+20251104242,Gıda Mühendisliği,Meslek Lisesi,289.48,15,Yurt,80.44
+20251102243,Makine Mühendisliği,Meslek Lisesi,398.61,11,Yurt,60.93
+20251101244,Bilgisayar Mühendisliği,Meslek Lisesi,457.46,6,Yurt,65.02
+20251103245,Harita Mühendisliği,Fen Lisesi,427.18,,Ev,88.58
+20251102246,Makine Mühendisliği,Fen Lisesi,414.83,7,Özel Yurt,95.76
+20251104247,Gıda Mühendisliği,Fen Lisesi,337.19,,Yurt,67.66
+20251105248,Elektrik Mühendisliği,Düz Lise,458.0,8,Ev,84.47
+20251103249,Harita Mühendisliği,Fen Lisesi,359.07,6,Ev,75.72
+20251104250,Gıda Mühendisliği,Düz Lise,310.19,11,Özel Yurt,61.41
+20251104251,Gıda Mühendisliği,Meslek Lisesi,361.24,1,Ev,100.0
+20251105252,Elektrik Mühendisliği,Fen Lisesi,394.7,10,,84.76
+20251104253,Gıda Mühendisliği,Düz Lise,316.57,4,Yurt,72.15
+20251105254,Elektrik Mühendisliği,Anadolu Lisesi,412.16,15,Yurt,
+20251104255,Gıda Mühendisliği,Meslek Lisesi,336.37,2,Ev,68.03
+20251105256,Elektrik Mühendisliği,Anadolu Lisesi,430.86,12,Ev,77.4
+20251103257,Harita Mühendisliği,Düz Lise,379.03,9,Yurt,67.11
+20251101258,Bilgisayar Mühendisliği,Anadolu Lisesi,458.27,14,Ev,87.06
+20251104259,Gıda Mühendisliği,Düz Lise,349.19,11,Ev,
+20251104260,Gıda Mühendisliği,Fen Lisesi,337.81,9,Özel Yurt,87.02
+20251103261,Harita Mühendisliği,,343.26,14,Yurt,84.52
+20251104262,Gıda Mühendisliği,Anadolu Lisesi,316.23,8,Özel Yurt,
+20251102263,Makine Mühendisliği,Meslek Lisesi,398.46,4,Özel Yurt,56.34
+20251105264,Elektrik Mühendisliği,Anadolu Lisesi,389.74,14,Ev,78.58
+20251103265,Harita Mühendisliği,Meslek Lisesi,391.49,6,Özel Yurt,67.15
+20251103266,Harita Mühendisliği,Düz Lise,400.96,5,Özel Yurt,58.06
+20251103267,Harita Mühendisliği,,383.35,14,Ev,
+20251104268,Gıda Mühendisliği,Meslek Lisesi,316.53,6,Yurt,78.57
+20251105269,Elektrik Mühendisliği,Meslek Lisesi,406.36,8,Yurt,73.39
+20251102270,Makine Mühendisliği,Anadolu Lisesi,436.8,10,Yurt,71.08
+20251102271,Makine Mühendisliği,Meslek Lisesi,433.11,1,Yurt,64.44
+20251104272,Gıda Mühendisliği,Meslek Lisesi,350.01,,Özel Yurt,95.3
+20251102273,Makine Mühendisliği,Meslek Lisesi,361.45,1,Ev,68.44
+20251105274,Elektrik Mühendisliği,Fen Lisesi,437.5,14,,75.56
+20251104275,Gıda Mühendisliği,Düz Lise,345.52,9,Yurt,70.75
+20251101276,Bilgisayar Mühendisliği,Anadolu Lisesi,466.01,7,,76.13
+20251102277,Makine Mühendisliği,Düz Lise,440.3,8,,81.05
+20251103278,Harita Mühendisliği,,393.44,11,Ev,73.06
+20251103279,Harita Mühendisliği,Meslek Lisesi,372.81,,Özel Yurt,72.81
+20251104280,Gıda Mühendisliği,Düz Lise,346.18,10,Ev,72.95
+20251102281,Makine Mühendisliği,Fen Lisesi,421.28,4,,100.0
+20251101282,Bilgisayar Mühendisliği,Meslek Lisesi,475.16,2,Özel Yurt,74.09
+20251101283,Bilgisayar Mühendisliği,Meslek Lisesi,479.01,,Özel Yurt,73.1
+20251103284,Harita Mühendisliği,Düz Lise,334.05,1,Yurt,65.9
+20251101285,Bilgisayar Mühendisliği,Fen Lisesi,443.17,6,Yurt,73.78
+20251104286,Gıda Mühendisliği,Anadolu Lisesi,,4,Özel Yurt,98.12
+20251104287,Gıda Mühendisliği,Anadolu Lisesi,,3,Ev,75.37
+20251101288,Bilgisayar Mühendisliği,Meslek Lisesi,474.68,10,Özel Yurt,51.47
+20251102289,Makine Mühendisliği,Meslek Lisesi,420.1,15,Özel Yurt,87.25
+20251102290,Makine Mühendisliği,Anadolu Lisesi,382.96,8,,91.73
+20251103291,Harita Mühendisliği,Meslek Lisesi,393.46,5,Özel Yurt,73.02
+20251101292,Bilgisayar Mühendisliği,Meslek Lisesi,472.38,15,Yurt,100.0
+20251105293,Elektrik Mühendisliği,,428.94,2,Yurt,
+20251103294,Harita Mühendisliği,Fen Lisesi,373.52,11,Yurt,67.8
+20251103295,Harita Mühendisliği,Meslek Lisesi,405.76,14,Yurt,67.73
+20251102296,Makine Mühendisliği,Meslek Lisesi,416.55,14,Yurt,72.27
+20251101297,Bilgisayar Mühendisliği,Anadolu Lisesi,470.59,7,Özel Yurt,82.0
+20251103298,Harita Mühendisliği,Fen Lisesi,410.94,12,Yurt,71.88
+20251101299,Bilgisayar Mühendisliği,,461.85,5,Ev,66.25
+20251105300,Elektrik Mühendisliği,Düz Lise,415.37,15,Özel Yurt,82.53
+20251104301,Gıda Mühendisliği,,356.45,,Ev,66.93
+20251105302,Elektrik Mühendisliği,,443.84,4,,94.27
+20251102303,Makine Mühendisliği,Fen Lisesi,423.96,11,Özel Yurt,
+20251102304,Makine Mühendisliği,Düz Lise,398.23,,Özel Yurt,63.06
+20251101305,Bilgisayar Mühendisliği,Fen Lisesi,444.25,13,Yurt,95.95
+20251101306,Bilgisayar Mühendisliği,Fen Lisesi,472.63,12,Ev,
+20251101307,Bilgisayar Mühendisliği,Fen Lisesi,468.27,6,Özel Yurt,
+20251104308,Gıda Mühendisliği,Anadolu Lisesi,404.3,4,Ev,79.55
+20251105309,Elektrik Mühendisliği,Fen Lisesi,427.37,9,Özel Yurt,86.71
+20251103310,Harita Mühendisliği,Anadolu Lisesi,397.03,5,Yurt,80.69
+20251103311,Harita Mühendisliği,Fen Lisesi,365.24,13,Ev,83.66
+20251104312,Gıda Mühendisliği,Düz Lise,388.32,3,Ev,94.15
+20251104313,Gıda Mühendisliği,Fen Lisesi,380.14,2,Yurt,71.87
+20251101314,Bilgisayar Mühendisliği,Fen Lisesi,453.45,9,Ev,76.49
+20251104315,Gıda Mühendisliği,Fen Lisesi,336.58,11,Özel Yurt,91.13
+20251103316,Harita Mühendisliği,Meslek Lisesi,,,Özel Yurt,
+20251103317,Harita Mühendisliği,Düz Lise,381.05,,Ev,72.88
+20251104318,Gıda Mühendisliği,Düz Lise,306.32,10,Özel Yurt,58.14
+20251103319,Harita Mühendisliği,Anadolu Lisesi,405.58,11,Ev,78.88
+20251104320,Gıda Mühendisliği,Fen Lisesi,298.45,11,Yurt,62.46
+20251101321,Bilgisayar Mühendisliği,Anadolu Lisesi,461.08,1,Ev,
+20251103322,Harita Mühendisliği,Meslek Lisesi,378.51,2,Ev,59.96
+20251102323,Makine Mühendisliği,Anadolu Lisesi,409.68,7,,74.73
+20251103324,Harita Mühendisliği,Meslek Lisesi,317.58,10,Özel Yurt,77.35
+20251102325,Makine Mühendisliği,Meslek Lisesi,410.0,11,Ev,86.35
+20251104326,Gıda Mühendisliği,Meslek Lisesi,387.39,5,Ev,
+20251103327,Harita Mühendisliği,Anadolu Lisesi,378.28,8,Yurt,64.72
+20251102328,Makine Mühendisliği,Fen Lisesi,470.76,2,Özel Yurt,78.71
+20251103329,Harita Mühendisliği,Fen Lisesi,385.35,1,Yurt,77.71
+20251103330,Harita Mühendisliği,Anadolu Lisesi,389.95,2,Yurt,76.27
+20251101331,Bilgisayar Mühendisliği,Anadolu Lisesi,458.31,11,Özel Yurt,71.44
+20251105332,Elektrik Mühendisliği,Düz Lise,424.29,1,Yurt,71.48
+20251102333,Makine Mühendisliği,Anadolu Lisesi,399.56,13,Özel Yurt,79.28
+20251102334,Makine Mühendisliği,Düz Lise,409.48,14,Özel Yurt,96.05
+20251102335,Makine Mühendisliği,Anadolu Lisesi,357.56,14,Ev,91.1
+20251103336,Harita Mühendisliği,Anadolu Lisesi,416.15,13,Özel Yurt,53.12
+20251101337,Bilgisayar Mühendisliği,Fen Lisesi,461.0,14,Ev,
+20251102338,Makine Mühendisliği,Fen Lisesi,384.5,13,Ev,68.67
+20251101339,Bilgisayar Mühendisliği,Düz Lise,452.04,3,Ev,99.03
+20251103340,Harita Mühendisliği,Anadolu Lisesi,408.39,10,Yurt,93.26
+20251101341,Bilgisayar Mühendisliği,Anadolu Lisesi,473.42,5,Ev,64.45
+20251102342,Makine Mühendisliği,Meslek Lisesi,403.64,9,Ev,
+20251101343,Bilgisayar Mühendisliği,Meslek Lisesi,450.74,8,Yurt,86.56
+20251105344,Elektrik Mühendisliği,,419.79,8,Özel Yurt,73.5
+20251102345,Makine Mühendisliği,Düz Lise,430.4,12,Özel Yurt,83.33
+20251105346,Elektrik Mühendisliği,Fen Lisesi,417.18,8,Özel Yurt,91.91
+20251101347,Bilgisayar Mühendisliği,,452.39,8,Yurt,85.39
+20251104348,Gıda Mühendisliği,,351.8,8,Özel Yurt,74.29
+20251104349,Gıda Mühendisliği,,344.24,15,Ev,62.99
+20251103350,Harita Mühendisliği,Anadolu Lisesi,408.1,,Ev,75.78
+20251103351,Harita Mühendisliği,Fen Lisesi,371.93,7,Özel Yurt,90.59
+20251105352,Elektrik Mühendisliği,Fen Lisesi,409.74,8,Özel Yurt,61.1
+20251105353,Elektrik Mühendisliği,Meslek Lisesi,391.27,2,Özel Yurt,85.27
+20251101354,Bilgisayar Mühendisliği,Anadolu Lisesi,450.06,7,Yurt,99.06
+20251102355,Makine Mühendisliği,Meslek Lisesi,369.89,6,Yurt,98.36
+20251104356,Gıda Mühendisliği,Meslek Lisesi,340.98,12,Ev,76.84
+20251103357,Harita Mühendisliği,Meslek Lisesi,371.38,6,Özel Yurt,
+20251103358,Harita Mühendisliği,Fen Lisesi,384.06,3,Özel Yurt,91.24
+20251104359,Gıda Mühendisliği,,338.24,2,Ev,79.8
+20251101360,Bilgisayar Mühendisliği,Meslek Lisesi,460.76,2,Özel Yurt,77.32
+20251103361,Harita Mühendisliği,Anadolu Lisesi,392.7,,Ev,57.48
+20251105362,Elektrik Mühendisliği,Fen Lisesi,395.79,11,Ev,
+20251104363,Gıda Mühendisliği,,339.84,14,Özel Yurt,75.79
+20251104364,Gıda Mühendisliği,Düz Lise,335.52,5,Özel Yurt,82.17
+20251103365,Harita Mühendisliği,Fen Lisesi,371.51,2,Özel Yurt,68.66
+20251105366,Elektrik Mühendisliği,Anadolu Lisesi,429.24,3,Özel Yurt,66.26
+20251104367,Gıda Mühendisliği,Anadolu Lisesi,346.57,14,Ev,57.57
+20251103368,Harita Mühendisliği,Fen Lisesi,410.73,2,Yurt,83.67
+20251105369,Elektrik Mühendisliği,Anadolu Lisesi,430.55,13,Yurt,89.79
+20251105370,Elektrik Mühendisliği,Düz Lise,461.09,,Özel Yurt,90.17
+20251103371,Harita Mühendisliği,Düz Lise,338.98,3,Yurt,62.65
+20251103372,Harita Mühendisliği,,369.38,6,Ev,78.31
+20251102373,Makine Mühendisliği,Anadolu Lisesi,426.22,10,Özel Yurt,69.29
+20251104374,Gıda Mühendisliği,Düz Lise,340.29,3,Özel Yurt,68.94
+20251101375,Bilgisayar Mühendisliği,Düz Lise,457.87,12,Özel Yurt,61.12
+20251102376,Makine Mühendisliği,Meslek Lisesi,395.0,7,Yurt,
+20251103377,Harita Mühendisliği,Anadolu Lisesi,360.6,6,Yurt,90.64
+20251103378,Harita Mühendisliği,Düz Lise,361.27,15,Ev,100.0
+20251102379,Makine Mühendisliği,,425.69,13,Özel Yurt,80.22
+20251101380,Bilgisayar Mühendisliği,Düz Lise,454.99,5,Yurt,86.4
+20251104381,Gıda Mühendisliği,,318.69,10,Yurt,79.46
+20251104382,Gıda Mühendisliği,Fen Lisesi,407.54,4,,76.85
+20251101383,Bilgisayar Mühendisliği,Fen Lisesi,478.41,7,Ev,69.56
+20251103384,Harita Mühendisliği,Meslek Lisesi,,9,,99.25
+20251103385,Harita Mühendisliği,Düz Lise,369.33,4,Yurt,99.75
+20251105386,Elektrik Mühendisliği,Düz Lise,440.33,1,Ev,
+20251103387,Harita Mühendisliği,Anadolu Lisesi,400.81,13,Ev,89.67
+20251103388,Harita Mühendisliği,Fen Lisesi,,6,Ev,
+20251101389,Bilgisayar Mühendisliği,Meslek Lisesi,456.52,12,Yurt,75.03
+20251102390,Makine Mühendisliği,Anadolu Lisesi,413.39,7,Özel Yurt,85.45
+20251102391,Makine Mühendisliği,Fen Lisesi,418.85,2,Yurt,61.98
+20251101392,Bilgisayar Mühendisliği,,469.44,1,Yurt,85.33
+20251101393,Bilgisayar Mühendisliği,Fen Lisesi,471.53,,Yurt,90.97
+20251105394,Elektrik Mühendisliği,Meslek Lisesi,443.07,12,Özel Yurt,83.51
+20251104395,Gıda Mühendisliği,,333.01,2,Yurt,
+20251101396,Bilgisayar Mühendisliği,Fen Lisesi,470.01,3,Özel Yurt,80.49
+20251104397,Gıda Mühendisliği,Fen Lisesi,342.69,2,Yurt,62.68
+20251101398,Bilgisayar Mühendisliği,Anadolu Lisesi,452.39,7,Özel Yurt,90.64
+20251104399,Gıda Mühendisliği,Düz Lise,333.88,7,Yurt,86.18
+20251103400,Harita Mühendisliği,Anadolu Lisesi,385.71,6,Ev,78.36
+20251101401,Bilgisayar Mühendisliği,Düz Lise,,9,Özel Yurt,71.81
+20251102402,Makine Mühendisliği,Fen Lisesi,417.08,6,,72.45
+20251102403,Makine Mühendisliği,Anadolu Lisesi,405.59,2,Ev,74.29
+20251103404,Harita Mühendisliği,Anadolu Lisesi,390.55,3,Özel Yurt,72.26
+20251102405,Makine Mühendisliği,Düz Lise,442.21,3,,67.26
+20251104406,Gıda Mühendisliği,Meslek Lisesi,329.71,13,Özel Yurt,72.72
+20251105407,Elektrik Mühendisliği,Meslek Lisesi,456.35,,Özel Yurt,80.36
+20251105408,Elektrik Mühendisliği,Fen Lisesi,447.36,,Özel Yurt,60.17
+20251103409,Harita Mühendisliği,Anadolu Lisesi,391.68,,Ev,88.68
+20251104410,Gıda Mühendisliği,Meslek Lisesi,337.33,11,Yurt,90.79
+20251103411,Harita Mühendisliği,Düz Lise,372.07,6,Özel Yurt,94.91
+20251101412,Bilgisayar Mühendisliği,Fen Lisesi,491.82,,Yurt,73.65
+20251101413,Bilgisayar Mühendisliği,Düz Lise,459.8,6,Yurt,95.44
+20251101414,Bilgisayar Mühendisliği,,483.43,,Özel Yurt,71.73
+20251105415,Elektrik Mühendisliği,Meslek Lisesi,415.9,8,Özel Yurt,74.62
+20251105416,Elektrik Mühendisliği,Düz Lise,395.87,8,Özel Yurt,66.98
+20251102417,Makine Mühendisliği,Fen Lisesi,393.24,10,,68.79
+20251105418,Elektrik Mühendisliği,Anadolu Lisesi,424.25,1,,80.81
+20251101419,Bilgisayar Mühendisliği,Fen Lisesi,483.09,12,Ev,66.02
+20251105420,Elektrik Mühendisliği,Anadolu Lisesi,,1,Ev,75.43
+20251104421,Gıda Mühendisliği,Meslek Lisesi,333.6,9,Özel Yurt,86.1
+20251105422,Elektrik Mühendisliği,Anadolu Lisesi,400.67,6,Yurt,82.59
+20251103423,Harita Mühendisliği,Meslek Lisesi,389.16,7,Yurt,83.91
+20251105424,Elektrik Mühendisliği,Düz Lise,431.27,13,Özel Yurt,100.0
+20251103425,Harita Mühendisliği,Düz Lise,,,Ev,
+20251105426,Elektrik Mühendisliği,Meslek Lisesi,,5,Yurt,71.33
+20251105427,Elektrik Mühendisliği,Anadolu Lisesi,411.19,6,Ev,92.27
+20251105428,Elektrik Mühendisliği,Anadolu Lisesi,455.78,15,,71.15
+20251103429,Harita Mühendisliği,Meslek Lisesi,364.19,,Özel Yurt,83.66
+20251101430,Bilgisayar Mühendisliği,,458.56,9,Yurt,85.6
+20251103431,Harita Mühendisliği,Anadolu Lisesi,390.07,11,Özel Yurt,59.81
+20251105432,Elektrik Mühendisliği,Düz Lise,458.53,11,Özel Yurt,99.55
+20251104433,Gıda Mühendisliği,Fen Lisesi,,1,Yurt,73.35
+20251103434,Harita Mühendisliği,Anadolu Lisesi,392.15,4,Yurt,82.01
+20251104435,Gıda Mühendisliği,Anadolu Lisesi,353.66,4,,100.0
+20251102436,Makine Mühendisliği,Düz Lise,411.17,5,Ev,68.42
+20251105437,Elektrik Mühendisliği,Düz Lise,,11,Yurt,69.23
+20251105438,Elektrik Mühendisliği,Anadolu Lisesi,424.28,10,Yurt,99.53
+20251102439,Makine Mühendisliği,Anadolu Lisesi,403.79,3,Özel Yurt,80.69
+20251105440,Elektrik Mühendisliği,Anadolu Lisesi,424.64,,Yurt,92.26
+20251101441,Bilgisayar Mühendisliği,Meslek Lisesi,494.48,6,Özel Yurt,71.63
+20251102442,Makine Mühendisliği,Meslek Lisesi,404.4,,Yurt,90.53
+20251104443,Gıda Mühendisliği,Anadolu Lisesi,354.32,9,Ev,100.0
+20251103444,Harita Mühendisliği,Meslek Lisesi,399.6,15,Ev,73.69
+20251103445,Harita Mühendisliği,Meslek Lisesi,399.77,8,Yurt,91.3
+20251104446,Gıda Mühendisliği,Meslek Lisesi,358.25,3,Ev,84.09
+20251105447,Elektrik Mühendisliği,Anadolu Lisesi,448.11,14,Yurt,
+20251101448,Bilgisayar Mühendisliği,Meslek Lisesi,481.13,,Yurt,85.78
+20251105449,Elektrik Mühendisliği,Düz Lise,421.38,,Özel Yurt,79.76
+20251101450,Bilgisayar Mühendisliği,Fen Lisesi,479.08,2,Ev,68.2
+20251103451,Harita Mühendisliği,Meslek Lisesi,394.22,15,Özel Yurt,73.28
+20251102452,Makine Mühendisliği,Meslek Lisesi,415.62,2,Ev,
+20251104453,Gıda Mühendisliği,Fen Lisesi,340.41,15,Ev,78.56
+20251104454,Gıda Mühendisliği,Düz Lise,296.47,7,Özel Yurt,86.96
+20251103455,Harita Mühendisliği,Anadolu Lisesi,401.14,7,Ev,100.0
+20251103456,Harita Mühendisliği,Anadolu Lisesi,377.31,1,Yurt,
+20251101457,Bilgisayar Mühendisliği,Fen Lisesi,467.91,13,Ev,96.93
+20251102458,Makine Mühendisliği,Düz Lise,,,Yurt,81.35
+20251102459,Makine Mühendisliği,Meslek Lisesi,428.17,,Özel Yurt,80.24
+20251101460,Bilgisayar Mühendisliği,Düz Lise,459.79,1,Yurt,80.33
+20251102461,Makine Mühendisliği,Anadolu Lisesi,438.26,9,Özel Yurt,65.68
+20251105462,Elektrik Mühendisliği,Meslek Lisesi,427.88,2,Yurt,69.6
+20251102463,Makine Mühendisliği,Fen Lisesi,,2,Ev,59.72
+20251102464,Makine Mühendisliği,Meslek Lisesi,402.89,11,Özel Yurt,82.53
+20251104465,Gıda Mühendisliği,Düz Lise,379.36,2,Yurt,77.21
+20251105466,Elektrik Mühendisliği,Düz Lise,412.97,11,Özel Yurt,100.0
+20251105467,Elektrik Mühendisliği,Anadolu Lisesi,,12,Ev,
+20251103468,Harita Mühendisliği,Meslek Lisesi,396.0,1,Özel Yurt,71.98
+20251103469,Harita Mühendisliği,Anadolu Lisesi,359.47,10,Yurt,86.5
+20251102470,Makine Mühendisliği,Düz Lise,420.28,9,Yurt,71.23
+20251101471,Bilgisayar Mühendisliği,Düz Lise,,7,Yurt,88.47
+20251101472,Bilgisayar Mühendisliği,Meslek Lisesi,472.59,6,Yurt,76.81
+20251101473,Bilgisayar Mühendisliği,Fen Lisesi,486.54,13,Ev,65.16
+20251103474,Harita Mühendisliği,,346.86,12,,69.7
+20251101475,Bilgisayar Mühendisliği,Fen Lisesi,464.47,3,Ev,80.92
+20251103476,Harita Mühendisliği,Fen Lisesi,378.97,14,Özel Yurt,82.22
+20251102477,Makine Mühendisliği,Meslek Lisesi,387.88,12,Yurt,95.33
+20251102478,Makine Mühendisliği,Anadolu Lisesi,413.22,2,Özel Yurt,91.41
+20251104479,Gıda Mühendisliği,Düz Lise,344.71,5,Ev,83.48
+20251101480,Bilgisayar Mühendisliği,Anadolu Lisesi,471.65,15,Ev,83.37
+20251103481,Harita Mühendisliği,Fen Lisesi,401.07,9,Yurt,93.95
+20251105482,Elektrik Mühendisliği,Meslek Lisesi,,,,86.51
+20251102483,Makine Mühendisliği,Fen Lisesi,413.06,6,Ev,95.28
+20251103484,Harita Mühendisliği,,368.09,,Yurt,99.61
+20251104485,Gıda Mühendisliği,Meslek Lisesi,333.86,12,Yurt,
+20251104486,Gıda Mühendisliği,Fen Lisesi,338.63,3,Yurt,69.83
+20251104487,Gıda Mühendisliği,Fen Lisesi,358.82,15,Özel Yurt,70.17
+20251103488,Harita Mühendisliği,,373.85,12,Yurt,55.33
+20251101489,Bilgisayar Mühendisliği,Meslek Lisesi,459.72,10,Ev,48.91
+20251105490,Elektrik Mühendisliği,,390.68,6,Ev,87.12
+20251101491,Bilgisayar Mühendisliği,Fen Lisesi,,11,Yurt,83.11
+20251103492,Harita Mühendisliği,Meslek Lisesi,360.83,10,Özel Yurt,77.43
+20251104493,Gıda Mühendisliği,Anadolu Lisesi,334.9,12,,
+20251103494,Harita Mühendisliği,Meslek Lisesi,422.58,,Özel Yurt,88.53
+20251103495,Harita Mühendisliği,,,5,Özel Yurt,78.32
+20251101496,Bilgisayar Mühendisliği,Düz Lise,,11,Özel Yurt,53.5
+20251104497,Gıda Mühendisliği,Fen Lisesi,328.0,9,,69.82
+20251102498,Makine Mühendisliği,Düz Lise,393.3,3,Özel Yurt,74.63
+20251104499,Gıda Mühendisliği,Düz Lise,385.93,3,,85.69
+20251102500,Makine Mühendisliği,Fen Lisesi,402.62,6,Yurt,84.87
+20251105501,Elektrik Mühendisliği,Düz Lise,455.32,10,Ev,89.1
+20251104502,Gıda Mühendisliği,Fen Lisesi,336.69,6,Yurt,70.24
+20251101503,Bilgisayar Mühendisliği,Anadolu Lisesi,473.15,9,Yurt,
+20251104504,Gıda Mühendisliği,,360.36,11,Yurt,85.62
+20251102505,Makine Mühendisliği,Düz Lise,437.74,1,Özel Yurt,71.58
+20251102506,Makine Mühendisliği,,443.54,9,Yurt,80.37
+20251105507,Elektrik Mühendisliği,Düz Lise,469.96,5,Yurt,69.73
+20251104508,Gıda Mühendisliği,Anadolu Lisesi,384.19,10,,80.37
+20251104509,Gıda Mühendisliği,Anadolu Lisesi,,2,Ev,72.19
+20251101510,Bilgisayar Mühendisliği,Meslek Lisesi,,3,Özel Yurt,83.09
+20251104511,Gıda Mühendisliği,,349.81,13,,71.12
+20251103512,Harita Mühendisliği,Fen Lisesi,384.39,12,,100.0
+20251105513,Elektrik Mühendisliği,Fen Lisesi,462.43,15,Yurt,83.24
+20251102514,Makine Mühendisliği,Anadolu Lisesi,415.82,13,Yurt,79.44
+20251105515,Elektrik Mühendisliği,,438.29,,Ev,65.73
+20251102516,Makine Mühendisliği,Anadolu Lisesi,409.42,13,Yurt,57.98
+20251101517,Bilgisayar Mühendisliği,Fen Lisesi,469.66,9,Özel Yurt,85.77
+20251103518,Harita Mühendisliği,Meslek Lisesi,,,Özel Yurt,96.89
+20251102519,Makine Mühendisliği,Düz Lise,388.44,2,Yurt,60.43
+20251104520,Gıda Mühendisliği,Meslek Lisesi,341.36,9,Yurt,90.57
+20251104521,Gıda Mühendisliği,Düz Lise,382.71,3,Yurt,72.49
+20251101522,Bilgisayar Mühendisliği,,477.58,8,Özel Yurt,77.54
+20251105523,Elektrik Mühendisliği,Fen Lisesi,421.26,3,Özel Yurt,88.6
+20251105524,Elektrik Mühendisliği,Anadolu Lisesi,439.13,13,Ev,59.08
+20251104525,Gıda Mühendisliği,,376.84,14,Ev,94.56
+20251105526,Elektrik Mühendisliği,Anadolu Lisesi,411.45,5,,82.75
+20251102527,Makine Mühendisliği,Fen Lisesi,425.7,15,Özel Yurt,81.13
+20251102528,Makine Mühendisliği,Fen Lisesi,,9,Yurt,
+20251101529,Bilgisayar Mühendisliği,Fen Lisesi,,4,Özel Yurt,92.07
+20251105530,Elektrik Mühendisliği,Fen Lisesi,436.78,3,Özel Yurt,73.55
+20251103531,Harita Mühendisliği,Düz Lise,404.29,9,Özel Yurt,43.82
+20251102532,Makine Mühendisliği,,439.89,,Özel Yurt,57.12
+20251105533,Elektrik Mühendisliği,Fen Lisesi,417.15,14,Özel Yurt,64.56
+20251101534,Bilgisayar Mühendisliği,Düz Lise,449.9,2,,91.93
+20251105535,Elektrik Mühendisliği,Fen Lisesi,414.87,11,Ev,82.16
+20251105536,Elektrik Mühendisliği,Meslek Lisesi,423.98,10,Özel Yurt,83.72
+20251101537,Bilgisayar Mühendisliği,Meslek Lisesi,465.9,15,Özel Yurt,62.6
+20251105538,Elektrik Mühendisliği,Fen Lisesi,446.59,11,Yurt,72.07
+20251104539,Gıda Mühendisliği,,290.9,13,Özel Yurt,72.86
+20251104540,Gıda Mühendisliği,Fen Lisesi,377.52,8,Ev,88.2
+20251101541,Bilgisayar Mühendisliği,Anadolu Lisesi,,8,Yurt,73.81
+20251104542,Gıda Mühendisliği,Meslek Lisesi,325.89,4,Yurt,100.0
+20251105543,Elektrik Mühendisliği,Anadolu Lisesi,,6,Özel Yurt,83.16
+20251103544,Harita Mühendisliği,Fen Lisesi,410.76,7,Ev,
+20251103545,Harita Mühendisliği,Düz Lise,378.52,6,Ev,75.64
+20251104546,Gıda Mühendisliği,Düz Lise,332.97,5,Yurt,77.55
+20251102547,Makine Mühendisliği,Anadolu Lisesi,430.77,2,,78.62
+20251103548,Harita Mühendisliği,Meslek Lisesi,403.32,14,Özel Yurt,77.03
+20251104549,Gıda Mühendisliği,Anadolu Lisesi,337.23,14,Ev,54.02
+20251103550,Harita Mühendisliği,Fen Lisesi,407.91,4,Ev,82.16
+20251104551,Gıda Mühendisliği,Meslek Lisesi,,8,Yurt,
+20251104552,Gıda Mühendisliği,Düz Lise,394.17,2,Yurt,76.32
+20251105553,Elektrik Mühendisliği,Meslek Lisesi,449.01,4,Ev,65.52
+20251105554,Elektrik Mühendisliği,Fen Lisesi,438.28,1,Ev,65.36
+20251103555,Harita Mühendisliği,Meslek Lisesi,369.41,10,Özel Yurt,
+20251104556,Gıda Mühendisliği,Fen Lisesi,329.6,9,Ev,80.61
+20251101557,Bilgisayar Mühendisliği,Meslek Lisesi,475.15,3,Yurt,83.95
+20251103558,Harita Mühendisliği,Meslek Lisesi,388.76,6,Ev,82.38
+20251104559,Gıda Mühendisliği,Düz Lise,,10,Özel Yurt,77.31
+20251102560,Makine Mühendisliği,,419.36,9,Yurt,90.61
+20251101561,Bilgisayar Mühendisliği,Meslek Lisesi,477.9,,Yurt,92.24
+20251105562,Elektrik Mühendisliği,Fen Lisesi,438.84,14,Özel Yurt,
+20251105563,Elektrik Mühendisliği,Düz Lise,,3,Ev,64.24
+20251104564,Gıda Mühendisliği,Fen Lisesi,343.57,13,Yurt,68.95
+20251105565,Elektrik Mühendisliği,Fen Lisesi,423.61,13,Ev,81.95
+20251102566,Makine Mühendisliği,Meslek Lisesi,421.96,9,Ev,83.06
+20251101567,Bilgisayar Mühendisliği,Düz Lise,483.83,3,Özel Yurt,83.44
+20251103568,Harita Mühendisliği,Meslek Lisesi,378.9,9,Yurt,89.57
+20251102569,Makine Mühendisliği,Anadolu Lisesi,440.77,6,Özel Yurt,63.27
+20251103570,Harita Mühendisliği,Anadolu Lisesi,399.94,7,Özel Yurt,86.41
+20251103571,Harita Mühendisliği,Fen Lisesi,377.56,9,Özel Yurt,94.51
+20251105572,Elektrik Mühendisliği,Meslek Lisesi,421.75,12,,79.51
+20251103573,Harita Mühendisliği,Meslek Lisesi,380.67,14,Ev,78.19
+20251103574,Harita Mühendisliği,Fen Lisesi,357.59,11,Ev,60.72
+20251104575,Gıda Mühendisliği,Fen Lisesi,380.18,13,Özel Yurt,67.84
+20251101576,Bilgisayar Mühendisliği,Meslek Lisesi,453.43,5,Özel Yurt,52.16
+20251105577,Elektrik Mühendisliği,,411.16,12,,62.12
+20251105578,Elektrik Mühendisliği,Meslek Lisesi,460.58,3,Özel Yurt,90.12
+20251105579,Elektrik Mühendisliği,Meslek Lisesi,410.09,3,Özel Yurt,
+20251102580,Makine Mühendisliği,Düz Lise,436.27,10,Özel Yurt,74.1
+20251101581,Bilgisayar Mühendisliği,Anadolu Lisesi,435.84,1,,100.0
+20251103582,Harita Mühendisliği,Meslek Lisesi,350.26,3,Yurt,
+20251102583,Makine Mühendisliği,Meslek Lisesi,437.16,9,Özel Yurt,100.0
+20251104584,Gıda Mühendisliği,Düz Lise,374.22,12,Ev,84.77
+20251105585,Elektrik Mühendisliği,Anadolu Lisesi,437.89,9,Yurt,88.24
+20251104586,Gıda Mühendisliği,Meslek Lisesi,356.5,6,Ev,81.37
+20251104587,Gıda Mühendisliği,Fen Lisesi,337.95,9,Yurt,
+20251103588,Harita Mühendisliği,Meslek Lisesi,366.15,4,Ev,74.63
+20251103589,Harita Mühendisliği,Fen Lisesi,342.68,4,Yurt,76.82
+20251103590,Harita Mühendisliği,Anadolu Lisesi,360.29,12,Özel Yurt,64.76
+20251104591,Gıda Mühendisliği,Fen Lisesi,340.1,8,Yurt,94.7
+20251105592,Elektrik Mühendisliği,Fen Lisesi,444.9,5,Ev,59.15
+20251105593,Elektrik Mühendisliği,Meslek Lisesi,403.56,,Yurt,89.29
+20251103594,Harita Mühendisliği,Anadolu Lisesi,360.44,5,Ev,75.3
+20251103595,Harita Mühendisliği,Düz Lise,398.75,6,Yurt,66.38
+20251103596,Harita Mühendisliği,Meslek Lisesi,,4,Ev,61.99
+20251105597,Elektrik Mühendisliği,Fen Lisesi,411.97,15,,81.84
+20251103598,Harita Mühendisliği,Anadolu Lisesi,345.18,,Özel Yurt,83.29
+20251105599,Elektrik Mühendisliği,,424.57,4,Ev,84.63
+20251105600,Elektrik Mühendisliği,Anadolu Lisesi,429.85,11,Ev,94.37
+20251101601,Bilgisayar Mühendisliği,Düz Lise,466.46,7,Yurt,72.85
+20251104602,Gıda Mühendisliği,Düz Lise,338.47,11,Ev,84.52
+20251101603,Bilgisayar Mühendisliği,Anadolu Lisesi,465.57,7,Özel Yurt,78.49
+20251104604,Gıda Mühendisliği,Meslek Lisesi,315.11,11,Ev,70.05
+20251103605,Harita Mühendisliği,Fen Lisesi,349.93,5,Özel Yurt,98.99
+20251101606,Bilgisayar Mühendisliği,Düz Lise,450.49,,Özel Yurt,69.69
+20251102607,Makine Mühendisliği,Düz Lise,399.43,15,Ev,88.74
+20251104608,Gıda Mühendisliği,Anadolu Lisesi,326.64,15,Ev,92.97
+20251104609,Gıda Mühendisliği,Meslek Lisesi,315.92,3,Özel Yurt,81.35
+20251103610,Harita Mühendisliği,Düz Lise,364.12,1,,100.0
+20251105611,Elektrik Mühendisliği,Düz Lise,399.27,,Yurt,81.72
+20251103612,Harita Mühendisliği,Meslek Lisesi,400.84,,Özel Yurt,
+20251105613,Elektrik Mühendisliği,,420.99,15,Ev,76.44
+20251105614,Elektrik Mühendisliği,Meslek Lisesi,,5,Ev,76.24
+20251101615,Bilgisayar Mühendisliği,Fen Lisesi,476.25,3,Özel Yurt,100.0
+20251104616,Gıda Mühendisliği,Fen Lisesi,,12,Ev,61.56
+20251101617,Bilgisayar Mühendisliği,Fen Lisesi,463.97,13,Yurt,
+20251105618,Elektrik Mühendisliği,Anadolu Lisesi,407.59,3,Özel Yurt,97.67
+20251104619,Gıda Mühendisliği,Meslek Lisesi,382.53,9,Yurt,71.36
+20251101620,Bilgisayar Mühendisliği,Meslek Lisesi,471.64,11,Ev,97.54
+20251102621,Makine Mühendisliği,Anadolu Lisesi,406.79,8,Yurt,75.56
+20251102622,Makine Mühendisliği,Düz Lise,402.4,,Yurt,65.82
+20251102623,Makine Mühendisliği,Meslek Lisesi,400.93,13,Yurt,63.31
+20251103624,Harita Mühendisliği,Fen Lisesi,385.85,10,Özel Yurt,68.76
+20251105625,Elektrik Mühendisliği,Düz Lise,430.07,5,,59.33
+20251103626,Harita Mühendisliği,Anadolu Lisesi,393.27,1,Özel Yurt,88.0
+20251101627,Bilgisayar Mühendisliği,Meslek Lisesi,441.74,5,Ev,82.49
+20251104628,Gıda Mühendisliği,Fen Lisesi,369.78,12,Ev,63.48
+20251103629,Harita Mühendisliği,Fen Lisesi,426.81,10,Ev,83.03
+20251102630,Makine Mühendisliği,Anadolu Lisesi,399.72,8,Ev,77.33
+20251104631,Gıda Mühendisliği,Fen Lisesi,350.82,7,Özel Yurt,78.91
+20251105632,Elektrik Mühendisliği,Meslek Lisesi,436.67,13,Özel Yurt,66.95
+20251102633,Makine Mühendisliği,Anadolu Lisesi,,11,Özel Yurt,61.04
+20251101634,Bilgisayar Mühendisliği,,463.7,9,Özel Yurt,67.15
+20251103635,Harita Mühendisliği,Düz Lise,366.61,15,Özel Yurt,92.83
+20251101636,Bilgisayar Mühendisliği,Düz Lise,477.73,14,Özel Yurt,85.31
+20251105637,Elektrik Mühendisliği,Anadolu Lisesi,401.33,,Özel Yurt,74.2
+20251102638,Makine Mühendisliği,Anadolu Lisesi,441.28,6,Özel Yurt,79.7
+20251104639,Gıda Mühendisliği,,400.71,11,Ev,82.72
+20251105640,Elektrik Mühendisliği,Meslek Lisesi,429.16,2,Özel Yurt,74.29
+20251104641,Gıda Mühendisliği,Düz Lise,338.78,8,Ev,76.17
+20251105642,Elektrik Mühendisliği,Meslek Lisesi,440.34,,Özel Yurt,89.48
+20251101643,Bilgisayar Mühendisliği,Meslek Lisesi,455.83,11,Yurt,
+20251101644,Bilgisayar Mühendisliği,Meslek Lisesi,443.58,5,Ev,84.1
+20251102645,Makine Mühendisliği,Düz Lise,391.09,1,Yurt,52.17
+20251103646,Harita Mühendisliği,Düz Lise,,9,Ev,100.0
+20251101647,Bilgisayar Mühendisliği,,464.93,1,Yurt,88.06
+20251104648,Gıda Mühendisliği,Anadolu Lisesi,,13,Ev,76.81
+20251104649,Gıda Mühendisliği,Fen Lisesi,,15,,74.52
+20251104650,Gıda Mühendisliği,Meslek Lisesi,342.58,,Ev,81.86
+20251105651,Elektrik Mühendisliği,Anadolu Lisesi,410.52,11,Yurt,89.9
+20251101652,Bilgisayar Mühendisliği,Anadolu Lisesi,462.96,9,Yurt,68.93
+20251105653,Elektrik Mühendisliği,,436.62,12,Ev,67.22
+20251101654,Bilgisayar Mühendisliği,Düz Lise,465.33,5,Yurt,77.89
+20251105655,Elektrik Mühendisliği,Meslek Lisesi,448.53,9,Yurt,83.7
+20251102656,Makine Mühendisliği,Anadolu Lisesi,414.46,,Yurt,87.81
+20251102657,Makine Mühendisliği,Fen Lisesi,445.12,4,Özel Yurt,84.69
+20251101658,Bilgisayar Mühendisliği,Düz Lise,465.12,13,Özel Yurt,62.26
+20251104659,Gıda Mühendisliği,Düz Lise,304.82,4,Ev,74.34
+20251101660,Bilgisayar Mühendisliği,Düz Lise,457.89,10,Ev,75.76
+20251104661,Gıda Mühendisliği,Düz Lise,336.61,4,,84.36
+20251101662,Bilgisayar Mühendisliği,Meslek Lisesi,464.18,8,Ev,83.84
+20251105663,Elektrik Mühendisliği,Anadolu Lisesi,426.4,13,Ev,54.29
+20251102664,Makine Mühendisliği,Fen Lisesi,394.65,4,Özel Yurt,76.27
+20251105665,Elektrik Mühendisliği,Fen Lisesi,398.79,,Özel Yurt,85.2
+20251103666,Harita Mühendisliği,Anadolu Lisesi,423.27,5,Ev,92.63
+20251105667,Elektrik Mühendisliği,Anadolu Lisesi,,7,Yurt,95.89
+20251103668,Harita Mühendisliği,Düz Lise,,9,Özel Yurt,
+20251102669,Makine Mühendisliği,Meslek Lisesi,401.71,9,,74.37
+20251101670,Bilgisayar Mühendisliği,Fen Lisesi,460.47,11,Özel Yurt,80.04
+20251104671,Gıda Mühendisliği,Fen Lisesi,339.55,12,Yurt,78.04
+20251104672,Gıda Mühendisliği,Anadolu Lisesi,347.38,5,Yurt,92.29
+20251102673,Makine Mühendisliği,,435.57,4,Ev,60.18
+20251103674,Harita Mühendisliği,Anadolu Lisesi,321.15,13,Yurt,89.21
+20251101675,Bilgisayar Mühendisliği,Meslek Lisesi,449.05,7,Özel Yurt,75.3
+20251105676,Elektrik Mühendisliği,,399.65,7,Ev,56.38
+20251103677,Harita Mühendisliği,Anadolu Lisesi,398.54,6,Özel Yurt,87.11
+20251101678,Bilgisayar Mühendisliği,Meslek Lisesi,458.27,14,Yurt,46.91
+20251101679,Bilgisayar Mühendisliği,,458.63,1,,82.7
+20251104680,Gıda Mühendisliği,Düz Lise,293.1,14,Ev,80.2
+20251102681,Makine Mühendisliği,Anadolu Lisesi,414.67,8,Ev,84.95
+20251103682,Harita Mühendisliği,,387.99,15,Ev,66.32
+20251102683,Makine Mühendisliği,Anadolu Lisesi,440.93,12,Ev,76.1
+20251104684,Gıda Mühendisliği,Anadolu Lisesi,334.23,12,Özel Yurt,66.8
+20251102685,Makine Mühendisliği,Meslek Lisesi,,15,Ev,67.38
+20251105686,Elektrik Mühendisliği,Fen Lisesi,421.25,13,Yurt,98.54
+20251104687,Gıda Mühendisliği,Meslek Lisesi,296.13,,Özel Yurt,58.64
+20251103688,Harita Mühendisliği,Fen Lisesi,421.78,5,Yurt,75.49
+20251105689,Elektrik Mühendisliği,Meslek Lisesi,410.5,8,,90.48
+20251104690,Gıda Mühendisliği,Fen Lisesi,317.84,15,Ev,99.91
+20251103691,Harita Mühendisliği,Fen Lisesi,401.95,7,Ev,72.15
+20251105692,Elektrik Mühendisliği,Anadolu Lisesi,471.74,12,Ev,70.73
+20251101693,Bilgisayar Mühendisliği,Fen Lisesi,473.66,9,Özel Yurt,81.59
+20251105694,Elektrik Mühendisliği,Meslek Lisesi,453.2,5,Ev,
+20251102695,Makine Mühendisliği,,415.69,4,Yurt,
+20251105696,Elektrik Mühendisliği,Anadolu Lisesi,434.97,8,,69.87
+20251103697,Harita Mühendisliği,Fen Lisesi,435.33,13,Yurt,79.64
+20251104698,Gıda Mühendisliği,,324.65,3,Özel Yurt,80.22
+20251103699,Harita Mühendisliği,Anadolu Lisesi,351.32,3,Özel Yurt,66.34
+20251105700,Elektrik Mühendisliği,Meslek Lisesi,451.01,3,Özel Yurt,70.12
+20251101701,Bilgisayar Mühendisliği,Düz Lise,452.79,14,Ev,84.44
+20251101702,Bilgisayar Mühendisliği,Düz Lise,,7,Ev,86.63
+20251102703,Makine Mühendisliği,Düz Lise,436.58,12,Ev,68.92
+20251101704,Bilgisayar Mühendisliği,Anadolu Lisesi,448.41,9,Yurt,96.02
+20251103705,Harita Mühendisliği,Düz Lise,376.93,,Özel Yurt,
+20251105706,Elektrik Mühendisliği,Meslek Lisesi,453.78,11,Yurt,84.67
+20251101707,Bilgisayar Mühendisliği,Düz Lise,470.32,9,,100.0
+20251104708,Gıda Mühendisliği,Düz Lise,316.77,1,Özel Yurt,89.13
+20251103709,Harita Mühendisliği,,386.43,1,Özel Yurt,81.22
+20251104710,Gıda Mühendisliği,Anadolu Lisesi,,2,Ev,84.09
+20251105711,Elektrik Mühendisliği,Anadolu Lisesi,436.66,4,Ev,90.87
+20251105712,Elektrik Mühendisliği,Fen Lisesi,417.09,14,Yurt,67.93
+20251103713,Harita Mühendisliği,Meslek Lisesi,358.88,2,Yurt,54.4
+20251104714,Gıda Mühendisliği,Meslek Lisesi,393.26,10,Ev,64.76
+20251102715,Makine Mühendisliği,Fen Lisesi,410.21,,Ev,74.68
+20251101716,Bilgisayar Mühendisliği,Düz Lise,468.59,7,Yurt,87.79
+20251104717,Gıda Mühendisliği,Meslek Lisesi,359.38,1,Özel Yurt,71.0
+20251101718,Bilgisayar Mühendisliği,Anadolu Lisesi,463.05,2,Yurt,81.39
+20251104719,Gıda Mühendisliği,Fen Lisesi,327.95,10,Ev,97.29
+20251105720,Elektrik Mühendisliği,Düz Lise,435.64,,Ev,86.82
+20251105721,Elektrik Mühendisliği,Meslek Lisesi,439.36,5,Ev,92.08
+20251101722,Bilgisayar Mühendisliği,Fen Lisesi,467.11,15,Özel Yurt,62.44
+20251105723,Elektrik Mühendisliği,Düz Lise,433.66,,Yurt,70.18
+20251101724,Bilgisayar Mühendisliği,Anadolu Lisesi,458.83,10,Ev,85.04
+20251104725,Gıda Mühendisliği,,370.08,5,Ev,78.26
+20251105726,Elektrik Mühendisliği,Anadolu Lisesi,431.69,10,Yurt,98.43
+20251105727,Elektrik Mühendisliği,Fen Lisesi,430.22,7,Özel Yurt,100.0
+20251102728,Makine Mühendisliği,,427.25,9,Özel Yurt,56.87
+20251103729,Harita Mühendisliği,,403.83,2,Yurt,82.57
+20251102730,Makine Mühendisliği,Düz Lise,442.94,6,Özel Yurt,86.08
+20251105731,Elektrik Mühendisliği,Meslek Lisesi,422.0,13,Yurt,63.31
+20251101732,Bilgisayar Mühendisliği,Fen Lisesi,462.56,13,Yurt,67.79
+20251104733,Gıda Mühendisliği,Anadolu Lisesi,318.55,6,Özel Yurt,85.06
+20251104734,Gıda Mühendisliği,Meslek Lisesi,382.31,3,Özel Yurt,82.74
+20251105735,Elektrik Mühendisliği,Meslek Lisesi,399.09,2,Özel Yurt,83.34
+20251103736,Harita Mühendisliği,,414.92,,Ev,70.68
+20251101737,Bilgisayar Mühendisliği,Fen Lisesi,463.44,3,Yurt,78.18
+20251102738,Makine Mühendisliği,Meslek Lisesi,397.99,6,Yurt,85.78
+20251101739,Bilgisayar Mühendisliği,Düz Lise,463.59,1,Yurt,83.03
+20251104740,Gıda Mühendisliği,Fen Lisesi,309.85,,Yurt,72.75
+20251101741,Bilgisayar Mühendisliği,Anadolu Lisesi,473.43,,Ev,73.53
+20251104742,Gıda Mühendisliği,Meslek Lisesi,383.93,9,Özel Yurt,73.2
+20251105743,Elektrik Mühendisliği,Meslek Lisesi,429.87,2,Ev,
+20251101744,Bilgisayar Mühendisliği,Fen Lisesi,448.45,9,Ev,
+20251105745,Elektrik Mühendisliği,Fen Lisesi,,14,Yurt,93.15
+20251101746,Bilgisayar Mühendisliği,Fen Lisesi,458.56,7,Yurt,100.0
+20251101747,Bilgisayar Mühendisliği,Anadolu Lisesi,458.42,10,Özel Yurt,80.21
+20251102748,Makine Mühendisliği,,448.41,3,Ev,100.0
+20251103749,Harita Mühendisliği,Fen Lisesi,,5,Yurt,92.5
+20251102750,Makine Mühendisliği,Düz Lise,437.19,3,Yurt,85.11
+20251103751,Harita Mühendisliği,Meslek Lisesi,404.46,5,Yurt,71.39
+20251101752,Bilgisayar Mühendisliği,Fen Lisesi,455.45,,Ev,77.96
+20251104753,Gıda Mühendisliği,Anadolu Lisesi,330.18,8,Ev,72.56
+20251102754,Makine Mühendisliği,Fen Lisesi,430.09,1,Yurt,89.46
+20251103755,Harita Mühendisliği,Meslek Lisesi,387.21,,Yurt,95.73
+20251104756,Gıda Mühendisliği,Fen Lisesi,302.65,7,Özel Yurt,75.68
+20251105757,Elektrik Mühendisliği,,,5,Yurt,55.6
+20251105758,Elektrik Mühendisliği,Anadolu Lisesi,423.21,8,Yurt,76.54
+20251102759,Makine Mühendisliği,Meslek Lisesi,447.79,6,Yurt,85.57
+20251104760,Gıda Mühendisliği,Anadolu Lisesi,305.98,6,Yurt,100.0
+20251103761,Harita Mühendisliği,Meslek Lisesi,415.53,6,Ev,84.99
+20251105762,Elektrik Mühendisliği,Anadolu Lisesi,420.09,10,Özel Yurt,66.49
+20251102763,Makine Mühendisliği,Düz Lise,406.94,12,Yurt,91.06
+20251102764,Makine Mühendisliği,,455.83,13,Yurt,96.52
+20251101765,Bilgisayar Mühendisliği,Meslek Lisesi,459.3,11,Yurt,64.56
+20251102766,Makine Mühendisliği,Fen Lisesi,418.05,4,Yurt,56.78
+20251102767,Makine Mühendisliği,Meslek Lisesi,422.0,13,Yurt,76.23
+20251101768,Bilgisayar Mühendisliği,Meslek Lisesi,459.56,10,Yurt,58.86
+20251105769,Elektrik Mühendisliği,Meslek Lisesi,436.13,9,Özel Yurt,71.61
+20251104770,Gıda Mühendisliği,Düz Lise,301.85,13,,43.53
+20251105771,Elektrik Mühendisliği,Düz Lise,424.4,2,Ev,99.27
+20251103772,Harita Mühendisliği,Anadolu Lisesi,426.53,11,Özel Yurt,72.51
+20251101773,Bilgisayar Mühendisliği,Meslek Lisesi,457.97,13,Yurt,83.63
+20251104774,Gıda Mühendisliği,Düz Lise,306.71,1,Ev,81.62
+20251103775,Harita Mühendisliği,Anadolu Lisesi,404.15,9,Özel Yurt,92.72
+20251105776,Elektrik Mühendisliği,Anadolu Lisesi,,8,Yurt,75.56
+20251104777,Gıda Mühendisliği,Meslek Lisesi,310.12,13,Özel Yurt,68.08
+20251105778,Elektrik Mühendisliği,Anadolu Lisesi,420.09,6,Ev,82.41
+20251104779,Gıda Mühendisliği,Düz Lise,360.88,5,Yurt,68.36
+20251101780,Bilgisayar Mühendisliği,Düz Lise,482.41,14,Özel Yurt,74.75
+20251102781,Makine Mühendisliği,Fen Lisesi,,5,Yurt,69.03
+20251104782,Gıda Mühendisliği,Anadolu Lisesi,266.31,,Yurt,88.61
+20251103783,Harita Mühendisliği,Meslek Lisesi,403.42,2,Yurt,74.62
+20251104784,Gıda Mühendisliği,Fen Lisesi,336.9,2,Yurt,84.19
+20251101785,Bilgisayar Mühendisliği,Düz Lise,446.77,1,Yurt,71.65
+20251101786,Bilgisayar Mühendisliği,Anadolu Lisesi,474.27,15,Özel Yurt,62.95
+20251102787,Makine Mühendisliği,Anadolu Lisesi,421.36,9,Ev,61.72
+20251103788,Harita Mühendisliği,Meslek Lisesi,396.66,8,Ev,77.57
+20251104789,Gıda Mühendisliği,Anadolu Lisesi,289.24,3,Özel Yurt,91.98
+20251104790,Gıda Mühendisliği,Meslek Lisesi,314.19,1,Özel Yurt,68.28
+20251105791,Elektrik Mühendisliği,,429.35,8,Özel Yurt,91.78
+20251104792,Gıda Mühendisliği,Meslek Lisesi,306.22,1,Özel Yurt,78.74
+20251102793,Makine Mühendisliği,Anadolu Lisesi,424.29,5,Özel Yurt,86.32
+20251101794,Bilgisayar Mühendisliği,Düz Lise,467.06,,Özel Yurt,73.6
+20251102795,Makine Mühendisliği,Fen Lisesi,397.07,6,Ev,79.03
+20251104796,Gıda Mühendisliği,Düz Lise,304.62,5,Özel Yurt,42.94
+20251104797,Gıda Mühendisliği,Fen Lisesi,347.37,10,Yurt,88.85
+20251105798,Elektrik Mühendisliği,Meslek Lisesi,373.8,10,Ev,65.88
+20251103799,Harita Mühendisliği,Fen Lisesi,400.48,,Yurt,100.0
+20251105800,Elektrik Mühendisliği,Anadolu Lisesi,,14,Özel Yurt,69.26
+20251103801,Harita Mühendisliği,Düz Lise,380.43,11,Ev,94.5
+20251103802,Harita Mühendisliği,Düz Lise,368.85,4,Yurt,68.41
+20251101803,Bilgisayar Mühendisliği,Anadolu Lisesi,459.37,6,Özel Yurt,66.56
+20251102804,Makine Mühendisliği,Meslek Lisesi,417.66,7,,97.5
+20251102805,Makine Mühendisliği,Meslek Lisesi,422.0,7,Ev,74.97
+20251104806,Gıda Mühendisliği,Anadolu Lisesi,326.73,9,Ev,59.24
+20251104807,Gıda Mühendisliği,Fen Lisesi,360.02,,Ev,77.07
+20251103808,Harita Mühendisliği,Meslek Lisesi,380.49,10,Ev,100.0
+20251103809,Harita Mühendisliği,Düz Lise,,8,,
+20251102810,Makine Mühendisliği,Meslek Lisesi,405.76,9,Özel Yurt,91.78
+20251104811,Gıda Mühendisliği,Meslek Lisesi,338.21,11,Yurt,60.74
+20251104812,Gıda Mühendisliği,Meslek Lisesi,361.04,8,Ev,
+20251101813,Bilgisayar Mühendisliği,Düz Lise,486.86,13,Ev,90.96
+20251103814,Harita Mühendisliği,,373.82,5,Ev,
+20251105815,Elektrik Mühendisliği,Fen Lisesi,,3,Yurt,88.23
+20251105816,Elektrik Mühendisliği,Meslek Lisesi,435.5,,Özel Yurt,67.84
+20251101817,Bilgisayar Mühendisliği,Düz Lise,457.49,5,Özel Yurt,90.36
+20251103818,Harita Mühendisliği,,376.63,13,Özel Yurt,73.16
+20251104819,Gıda Mühendisliği,Anadolu Lisesi,307.94,7,Ev,
+20251102820,Makine Mühendisliği,Fen Lisesi,459.69,14,Ev,65.19
+20251104821,Gıda Mühendisliği,Fen Lisesi,335.69,,Ev,94.95
+20251104822,Gıda Mühendisliği,,332.74,13,Ev,83.43
+20251102823,Makine Mühendisliği,Fen Lisesi,391.98,14,Özel Yurt,
+20251105824,Elektrik Mühendisliği,Meslek Lisesi,420.95,3,Özel Yurt,89.83
+20251102825,Makine Mühendisliği,Anadolu Lisesi,440.73,14,Ev,100.0
+20251101826,Bilgisayar Mühendisliği,,471.76,9,Yurt,81.91
+20251105827,Elektrik Mühendisliği,Anadolu Lisesi,429.21,6,Özel Yurt,73.76
+20251103828,Harita Mühendisliği,,,10,Yurt,
+20251105829,Elektrik Mühendisliği,Düz Lise,428.65,3,Yurt,93.81
+20251101830,Bilgisayar Mühendisliği,Fen Lisesi,453.26,14,Özel Yurt,91.68
+20251102831,Makine Mühendisliği,Anadolu Lisesi,443.54,4,Ev,76.58
+20251103832,Harita Mühendisliği,Anadolu Lisesi,331.95,13,,70.71
+20251104833,Gıda Mühendisliği,Meslek Lisesi,371.75,3,Özel Yurt,
+20251103834,Harita Mühendisliği,Meslek Lisesi,360.02,7,Yurt,71.94
+20251101835,Bilgisayar Mühendisliği,Düz Lise,474.81,7,Özel Yurt,84.56
+20251103836,Harita Mühendisliği,Fen Lisesi,,,Yurt,73.6
+20251103837,Harita Mühendisliği,Düz Lise,375.21,14,Özel Yurt,66.93
+20251101838,Bilgisayar Mühendisliği,Meslek Lisesi,483.85,11,Özel Yurt,74.13
+20251103839,Harita Mühendisliği,Düz Lise,415.43,13,Özel Yurt,96.26
+20251104840,Gıda Mühendisliği,Anadolu Lisesi,363.29,7,Ev,72.82
+20251104841,Gıda Mühendisliği,Fen Lisesi,,,Yurt,77.71
+20251103842,Harita Mühendisliği,Anadolu Lisesi,362.41,10,Yurt,81.89
+20251103843,Harita Mühendisliği,Düz Lise,355.52,1,Ev,92.25
+20251104844,Gıda Mühendisliği,Düz Lise,321.84,2,Ev,80.41
+20251104845,Gıda Mühendisliği,Meslek Lisesi,343.03,1,Yurt,74.89
+20251102846,Makine Mühendisliği,Anadolu Lisesi,,15,Özel Yurt,72.3
+20251103847,Harita Mühendisliği,Anadolu Lisesi,406.78,14,Yurt,61.85
+20251101848,Bilgisayar Mühendisliği,Fen Lisesi,466.47,5,,100.0
+20251103849,Harita Mühendisliği,Anadolu Lisesi,359.99,,Yurt,69.87
+20251103850,Harita Mühendisliği,Anadolu Lisesi,397.85,7,Özel Yurt,80.15
+20251101851,Bilgisayar Mühendisliği,Düz Lise,469.09,1,Ev,83.87
+20251104852,Gıda Mühendisliği,Düz Lise,352.98,3,Özel Yurt,91.32
+20251102853,Makine Mühendisliği,Meslek Lisesi,423.88,1,,75.1
+20251103854,Harita Mühendisliği,Düz Lise,401.81,14,Yurt,
+20251102855,Makine Mühendisliği,Meslek Lisesi,412.13,2,Ev,66.31
+20251104856,Gıda Mühendisliği,Düz Lise,366.37,12,Ev,76.56
+20251101857,Bilgisayar Mühendisliği,Fen Lisesi,,6,,88.17
+20251102858,Makine Mühendisliği,Meslek Lisesi,403.4,13,Ev,76.91
+20251102859,Makine Mühendisliği,Düz Lise,422.19,9,Özel Yurt,80.29
+20251101860,Bilgisayar Mühendisliği,Anadolu Lisesi,473.28,8,,72.77
+20251102861,Makine Mühendisliği,,426.12,,Yurt,74.89
+20251105862,Elektrik Mühendisliği,Meslek Lisesi,441.01,14,Ev,85.38
+20251101863,Bilgisayar Mühendisliği,Düz Lise,454.09,3,,91.03
+20251105864,Elektrik Mühendisliği,Meslek Lisesi,413.39,6,Yurt,87.7
+20251103865,Harita Mühendisliği,Anadolu Lisesi,394.18,4,Yurt,100.0
+20251101866,Bilgisayar Mühendisliği,,462.39,,Özel Yurt,73.81
+20251105867,Elektrik Mühendisliği,Fen Lisesi,,,Özel Yurt,74.36
+20251101868,Bilgisayar Mühendisliği,Fen Lisesi,474.33,4,Özel Yurt,58.6
+20251105869,Elektrik Mühendisliği,Anadolu Lisesi,402.17,12,Yurt,65.19
+20251103870,Harita Mühendisliği,Düz Lise,408.76,,Ev,98.53
+20251104871,Gıda Mühendisliği,Meslek Lisesi,,2,Ev,75.97
+20251104872,Gıda Mühendisliği,Düz Lise,336.98,9,Ev,91.94
+20251103873,Harita Mühendisliği,Fen Lisesi,361.82,3,,80.86
+20251105874,Elektrik Mühendisliği,Meslek Lisesi,446.13,6,Özel Yurt,84.01
+20251102875,Makine Mühendisliği,Meslek Lisesi,419.11,13,Ev,90.01
+20251101876,Bilgisayar Mühendisliği,Düz Lise,433.46,1,Yurt,86.13
+20251102877,Makine Mühendisliği,Düz Lise,400.83,,Ev,56.03
+20251104878,Gıda Mühendisliği,Fen Lisesi,349.48,,Özel Yurt,94.48
+20251105879,Elektrik Mühendisliği,Meslek Lisesi,422.02,7,Özel Yurt,89.43
+20251104880,Gıda Mühendisliği,Düz Lise,380.68,11,Özel Yurt,93.78
+20251105881,Elektrik Mühendisliği,Anadolu Lisesi,460.53,5,Ev,86.91
+20251103882,Harita Mühendisliği,Düz Lise,386.89,9,Ev,58.78
+20251102883,Makine Mühendisliği,Fen Lisesi,409.67,7,Özel Yurt,
+20251101884,Bilgisayar Mühendisliği,,490.33,12,Yurt,75.89
+20251102885,Makine Mühendisliği,Düz Lise,417.67,4,Ev,84.62
+20251104886,Gıda Mühendisliği,Düz Lise,336.24,8,Özel Yurt,98.34
+20251105887,Elektrik Mühendisliği,Düz Lise,411.51,5,Özel Yurt,80.34
+20251102888,Makine Mühendisliği,Düz Lise,398.91,1,Özel Yurt,62.16
+20251102889,Makine Mühendisliği,Düz Lise,401.75,3,Yurt,77.56
+20251103890,Harita Mühendisliği,Fen Lisesi,374.27,3,Yurt,69.69
+20251102891,Makine Mühendisliği,Fen Lisesi,384.53,12,Ev,77.0
+20251101892,Bilgisayar Mühendisliği,Fen Lisesi,447.44,13,Yurt,87.12
+20251103893,Harita Mühendisliği,Düz Lise,387.06,5,Özel Yurt,60.51
+20251105894,Elektrik Mühendisliği,Düz Lise,418.3,8,Yurt,68.97
+20251105895,Elektrik Mühendisliği,Fen Lisesi,431.92,1,Yurt,94.09
+20251105896,Elektrik Mühendisliği,Anadolu Lisesi,384.37,6,Ev,79.38
+20251103897,Harita Mühendisliği,Düz Lise,381.0,15,Özel Yurt,86.06
+20251101898,Bilgisayar Mühendisliği,Anadolu Lisesi,467.49,12,Özel Yurt,68.98
+20251101899,Bilgisayar Mühendisliği,Düz Lise,461.28,14,Ev,68.45
+20251102900,Makine Mühendisliği,Düz Lise,438.31,8,Yurt,78.26
+20251104901,Gıda Mühendisliği,Anadolu Lisesi,388.87,,Ev,77.27
+20251105902,Elektrik Mühendisliği,Meslek Lisesi,409.65,,Yurt,59.84
+20251102903,Makine Mühendisliği,Meslek Lisesi,375.93,15,Özel Yurt,58.99
+20251103904,Harita Mühendisliği,,391.68,14,,84.1
+20251105905,Elektrik Mühendisliği,Fen Lisesi,390.74,2,,88.74
+20251101906,Bilgisayar Mühendisliği,Anadolu Lisesi,459.36,4,Özel Yurt,79.76
+20251101907,Bilgisayar Mühendisliği,Meslek Lisesi,483.81,2,Yurt,88.76
+20251103908,Harita Mühendisliği,Fen Lisesi,378.29,6,Ev,67.31
+20251105909,Elektrik Mühendisliği,Meslek Lisesi,378.38,1,Yurt,69.37
+20251102910,Makine Mühendisliği,Fen Lisesi,410.43,10,Yurt,
+20251105911,Elektrik Mühendisliği,Anadolu Lisesi,422.16,8,Yurt,78.92
+20251105912,Elektrik Mühendisliği,Meslek Lisesi,420.13,13,Ev,70.2
+20251105913,Elektrik Mühendisliği,Anadolu Lisesi,428.65,3,Ev,83.3
+20251104914,Gıda Mühendisliği,Düz Lise,304.11,4,Özel Yurt,94.93
+20251103915,Harita Mühendisliği,,382.54,6,Ev,78.23
+20251104916,Gıda Mühendisliği,Fen Lisesi,355.07,2,Ev,80.8
+20251105917,Elektrik Mühendisliği,Anadolu Lisesi,445.65,7,Yurt,81.45
+20251101918,Bilgisayar Mühendisliği,Anadolu Lisesi,,12,Yurt,82.34
+20251101919,Bilgisayar Mühendisliği,Düz Lise,451.66,15,Ev,79.3
+20251105920,Elektrik Mühendisliği,Meslek Lisesi,424.28,,Yurt,75.5
+20251104921,Gıda Mühendisliği,Düz Lise,331.36,10,Ev,55.42
+20251105922,Elektrik Mühendisliği,Anadolu Lisesi,413.11,11,Yurt,
+20251101923,Bilgisayar Mühendisliği,Düz Lise,466.86,7,Özel Yurt,65.67
+20251102924,Makine Mühendisliği,Anadolu Lisesi,442.42,5,,67.61
+20251103925,Harita Mühendisliği,Meslek Lisesi,409.24,12,Özel Yurt,83.13
+20251103926,Harita Mühendisliği,Fen Lisesi,368.84,8,Yurt,99.3
+20251102927,Makine Mühendisliği,Düz Lise,389.14,4,Ev,89.03
+20251105928,Elektrik Mühendisliği,Düz Lise,446.68,3,Ev,69.95
+20251102929,Makine Mühendisliği,Meslek Lisesi,445.17,8,Yurt,75.0
+20251104930,Gıda Mühendisliği,Düz Lise,343.18,9,Yurt,
+20251102931,Makine Mühendisliği,,412.09,5,Yurt,87.73
+20251103932,Harita Mühendisliği,Düz Lise,404.84,2,Ev,57.02
+20251103933,Harita Mühendisliği,Düz Lise,417.61,4,Yurt,58.05
+20251102934,Makine Mühendisliği,Düz Lise,437.37,12,,91.52
+20251103935,Harita Mühendisliği,Meslek Lisesi,357.73,9,Ev,
+20251103936,Harita Mühendisliği,Fen Lisesi,357.36,14,Ev,75.42
+20251101937,Bilgisayar Mühendisliği,Meslek Lisesi,461.41,14,Yurt,87.36
+20251105938,Elektrik Mühendisliği,Anadolu Lisesi,453.39,2,,
+20251101939,Bilgisayar Mühendisliği,Anadolu Lisesi,458.44,2,Ev,75.49
+20251101940,Bilgisayar Mühendisliği,Anadolu Lisesi,,3,Ev,68.33
+20251104941,Gıda Mühendisliği,Fen Lisesi,362.34,11,Özel Yurt,97.39
+20251101942,Bilgisayar Mühendisliği,Fen Lisesi,450.6,15,Ev,70.89
+20251101943,Bilgisayar Mühendisliği,Düz Lise,464.69,4,Özel Yurt,81.36
+20251104944,Gıda Mühendisliği,Anadolu Lisesi,312.06,,Yurt,83.09
+20251101945,Bilgisayar Mühendisliği,Düz Lise,459.47,8,Ev,77.83
+20251102946,Makine Mühendisliği,,426.84,14,Özel Yurt,78.08
+20251104947,Gıda Mühendisliği,Meslek Lisesi,322.64,1,Yurt,
+20251104948,Gıda Mühendisliği,Anadolu Lisesi,332.5,6,Ev,73.56
+20251102949,Makine Mühendisliği,,,,Yurt,97.18
+20251102950,Makine Mühendisliği,,427.15,,Özel Yurt,74.45
+20251105951,Elektrik Mühendisliği,Anadolu Lisesi,,11,Yurt,73.99
+20251104952,Gıda Mühendisliği,Meslek Lisesi,368.24,15,Özel Yurt,82.44
+20251104953,Gıda Mühendisliği,Düz Lise,331.96,2,,83.37
+20251104954,Gıda Mühendisliği,,290.49,7,Ev,64.48
+20251105955,Elektrik Mühendisliği,Anadolu Lisesi,,11,Özel Yurt,79.72
+20251101956,Bilgisayar Mühendisliği,Meslek Lisesi,485.21,13,Özel Yurt,100.0
+20251103957,Harita Mühendisliği,Meslek Lisesi,400.95,,Yurt,84.01
+20251103958,Harita Mühendisliği,Fen Lisesi,339.97,7,Yurt,71.49
+20251102959,Makine Mühendisliği,Düz Lise,397.93,6,Özel Yurt,
+20251102960,Makine Mühendisliği,,411.36,15,Yurt,72.33
+20251101961,Bilgisayar Mühendisliği,Meslek Lisesi,441.91,,,86.97
+20251105962,Elektrik Mühendisliği,Anadolu Lisesi,401.76,3,Ev,
+20251102963,Makine Mühendisliği,Anadolu Lisesi,459.94,5,Özel Yurt,66.97
+20251101964,Bilgisayar Mühendisliği,Anadolu Lisesi,435.48,10,Yurt,74.57
+20251103965,Harita Mühendisliği,Anadolu Lisesi,412.52,3,,100.0
+20251105966,Elektrik Mühendisliği,Fen Lisesi,398.36,13,Özel Yurt,83.96
+20251103967,Harita Mühendisliği,Düz Lise,373.37,,Özel Yurt,76.73
+20251103968,Harita Mühendisliği,Anadolu Lisesi,451.11,10,Ev,59.96
+20251104969,Gıda Mühendisliği,Fen Lisesi,342.19,,Yurt,83.61
+20251101970,Bilgisayar Mühendisliği,,477.67,1,Ev,79.18
+20251105971,Elektrik Mühendisliği,Anadolu Lisesi,431.67,1,Özel Yurt,73.3
+20251104972,Gıda Mühendisliği,Düz Lise,342.63,6,Özel Yurt,73.88
+20251102973,Makine Mühendisliği,Anadolu Lisesi,428.47,6,Özel Yurt,73.56
+20251102974,Makine Mühendisliği,Fen Lisesi,423.17,1,Ev,77.65
+20251102975,Makine Mühendisliği,Anadolu Lisesi,439.4,13,Ev,77.38
+20251105976,Elektrik Mühendisliği,Fen Lisesi,386.58,2,Yurt,93.14
+20251104977,Gıda Mühendisliği,Düz Lise,309.34,6,Yurt,70.15
+20251103978,Harita Mühendisliği,Anadolu Lisesi,370.11,3,Özel Yurt,94.49
+20251104979,Gıda Mühendisliği,Meslek Lisesi,274.49,11,,100.0
+20251102980,Makine Mühendisliği,Fen Lisesi,437.88,4,Özel Yurt,80.68
+20251105981,Elektrik Mühendisliği,Anadolu Lisesi,423.81,7,Yurt,
+20251103982,Harita Mühendisliği,Anadolu Lisesi,398.03,3,Özel Yurt,85.74
+20251101983,Bilgisayar Mühendisliği,Meslek Lisesi,471.48,14,Özel Yurt,79.07
+20251101984,Bilgisayar Mühendisliği,Anadolu Lisesi,462.7,10,,76.18
+20251105985,Elektrik Mühendisliği,Anadolu Lisesi,420.78,11,Özel Yurt,91.61
+20251101986,Bilgisayar Mühendisliği,Meslek Lisesi,,3,Yurt,42.72
+20251101987,Bilgisayar Mühendisliği,Anadolu Lisesi,472.65,6,Yurt,80.34
+20251102988,Makine Mühendisliği,Düz Lise,414.59,,Özel Yurt,73.34
+20251103989,Harita Mühendisliği,Meslek Lisesi,413.1,,Yurt,89.37
+20251102990,Makine Mühendisliği,Anadolu Lisesi,398.25,12,Ev,82.88
+20251103991,Harita Mühendisliği,Fen Lisesi,360.71,13,Ev,61.44
+20251101992,Bilgisayar Mühendisliği,Düz Lise,457.69,7,Yurt,88.35
+20251104993,Gıda Mühendisliği,Anadolu Lisesi,362.01,15,Yurt,
+20251104994,Gıda Mühendisliği,Meslek Lisesi,355.54,,Özel Yurt,84.19
+20251104995,Gıda Mühendisliği,Düz Lise,316.82,14,Yurt,83.18
+20251105996,Elektrik Mühendisliği,Anadolu Lisesi,442.34,3,Yurt,87.05
+20251101997,Bilgisayar Mühendisliği,Düz Lise,478.87,5,Ev,86.5
+20251103998,Harita Mühendisliği,Fen Lisesi,393.79,2,Ev,90.84
+20251103999,Harita Mühendisliği,Anadolu Lisesi,,,Yurt,
+202511021000,Makine Mühendisliği,,411.47,9,Ev,
